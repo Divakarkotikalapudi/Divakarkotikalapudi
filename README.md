@@ -10,6 +10,6 @@
 
 
 ---
-[![](https://komarev.com/ghpvc/?username=divakar05&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=divakar05&icon=0&color=brightgreen)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
